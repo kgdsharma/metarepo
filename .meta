@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "bootweb": "https://github.com/kgdsharma/SpringBootWeb.git",
+    "test": "https://github.com/kgdsharma/test.git"
+  }
 }
